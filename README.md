@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chhatrs
-- 👀
 - 🌱 I’m currently learning ...
-- 💞️
-- 📫
+
+  
+  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
